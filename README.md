@@ -23,5 +23,4 @@ Wpisywanie nicku za pomocą potencjometru. Użytkownik steruje potencjometrem i 
 # DO ZROBIENIA 
 - Dodać włącznik
 - Dodać przycisk kasujący znak
-- Zmodyfikować tryb 1 pracy - grucha się obniża po wciśnięciu enter
-  
+- Zmodyfikować tryb 1 pracy - po wcisnięciu enter czekamy chwile np 5s żeby użytkownik miał czas się odsunąć, grucha się obniża
