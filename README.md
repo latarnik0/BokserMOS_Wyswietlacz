@@ -18,7 +18,7 @@ Wpisywanie nicku za pomocą potencjometru. Użytkownik steruje potencjometrem i 
 # DODATKOWE INFORMACJE
 - **Data rozpoczęcia:** październik 2025
 - **Status:** w trakcie rozwoju
-- **Ostatnia aktualizacja:** 20.10.2025
+- **Ostatnia aktualizacja:** 24.10.2025
 
 # DO ZROBIENIA 
 - Dodać włącznik
